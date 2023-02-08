@@ -15,7 +15,7 @@
 <script setup>
 
 function Login(){
-  alert('Login')
+  alert('Olá')
 }
 
 </script>
